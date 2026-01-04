@@ -1,0 +1,16 @@
+node_modules
+.expo
+.expo-shared
+.DS_Store
+backend/shop.db
+mobile/.expo
+.env
+
+# Metro / React Native
+ios/build
+android/.gradle
+android/app/build
+
+# Editor folders
+.vscode
+.idea
